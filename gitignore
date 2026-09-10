@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Local data
+data/*.csv
+
+# Python cache
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+# Secrets
+.env
+*.env
+
+# Large generated files
+*.pkl
+*.joblib
+*.h5
+*.parquet
