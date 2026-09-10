@@ -4,9 +4,9 @@
 
 This project develops a machine learning classification model to predict the **financial health of individuals/business owners** using financial, demographic, business, insurance, savings, and financial-access information.
 
-The project was completed as part of the **Zindi Financial Inclusion in Africa** competition.
+The project was completed as part of the **Zindi Financial Health** competition.
 
-**Competition:** Financial Inclusion in Africa — Financial Health Prediction  
+**Competition:** Financial Health Prediction  
 **Platform:** Zindi  
 **Problem Type:** Multiclass Classification  
 **Target Variable:** `Target`  
@@ -24,7 +24,7 @@ This project uses data from the Zindi competition:
 
 Competition page:
 
-https://zindi.world/competitions/financial-inclusion-in-africa
+https://zindi.world/competitions/dataorg-financial-health-prediction-challenge
 
 ---
 
